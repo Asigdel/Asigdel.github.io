@@ -1,7 +1,7 @@
 ---
 title: "The metabolomic composition of the oviductal fluid is controlled by the periovulatory hormonal context in Bos indicus cows"
-collection: publications
-permalink: /publication/2024-10-17-paper-9
+collection: Publications
+permalink: /Publication/2024-10-17-paper-9
 excerpt: "We concluded that the periovulatory endocrine milieu regulates the composition of the oviductal fluid."
 date: 2024-10-17
 venue: "Biology of Reproduction"
