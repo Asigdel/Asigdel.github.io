@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Asigdel.pdf", title: "CV", icon:home}
+  - {file: "Asigdel.pdf", title: "CV", icon:home}
   - {title: "Lab",url: "https://rosalab.cals.wisc.edu"}
-  - {title: "Blog", file: "/blog.md"}
+  - {title: "Blog", file: "blog.md"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
