@@ -1,4 +1,6 @@
 ---
+layout: default
+title: "Publications"
 title: "The metabolomic composition of the oviductal fluid is controlled by the periovulatory hormonal context in Bos indicus cows"
 collection: Publications
 permalink: /Publication/2024-10-17-paper-9
