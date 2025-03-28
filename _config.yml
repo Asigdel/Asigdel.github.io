@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_AnilSigdel.md", title: "CV", icon:home}
   - {title: "Lab",url: "https://rosalab.cals.wisc.edu"}
   - {title: "Blog", file: "blog.md"}
+  - {title: "Publications",url: /publications/}
+  - {title: "Talks",url: /talks/} 
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
