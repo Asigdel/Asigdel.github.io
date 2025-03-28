@@ -4,6 +4,6 @@ authors: "John Doe, Jane Smith"
 journal: "Animal Science Journal"
 year: 2024
 doi: "10.1234/sample-doi"
-layout: Publications
+layout: publications
 ---
 [Read more](https://pubmed.ncbi.nlm.nih.gov/31636656/)
