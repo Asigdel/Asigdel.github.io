@@ -21,15 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "https://asigdel.github.io/images/Anil.jpeg"
   name             : "Anil Sigdel"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of Wisconsin-Madison"
+  uri              : "https://www.wisc.edu/"
+  email            : "sigdel@wisc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
