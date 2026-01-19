@@ -41,3 +41,25 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* --- Custom full-width footer like Zhiyang Wang --- */
+
+/* Hide the default AcademicPages footer content (Sitemap / Follow / Feed) */
+.page__footer-follow,
+.page__footer-copyright {
+  display: none !important;
+}
+
+/* Full-width blue bar */
+.custom-footer {
+  width: 100%;
+  background: #0a8fc2;
+  color: #fff;
+}
+
+/* Centered text and nice spacing */
+.custom-footer__inner {
+  padding: 2rem 1rem;
+  text-align: center;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
