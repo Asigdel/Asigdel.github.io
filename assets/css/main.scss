@@ -44,35 +44,79 @@
 
 /* ===== Custom footer (Zhiyang Wang style) ===== */
 
-/* ===== Footer: remove sitemap/follow + full-width blue bar ===== */
+/* ===== Custom full-width footer ===== */
+---
+---
 
-/* Hide the sitemap/follow area that prints "Sitemap" */
-.page__footer-follow,
-.page__footer .page__footer-follow,
-.page__footer .page__footer-sitemap,
-.page__footer h2 {
+/*
+ * This file controls what is imported from /_sass
+ * The first two lines (---) are required by Jekyll.
+ */
+
+@import
+  "vendor/breakpoint/breakpoint",
+
+  "themes",
+  "theme/default",
+  "theme/dark",
+
+  "include/mixins",
+  "vendor/susy/susy",
+
+  "layout/reset",
+  "layout/base",
+
+  "include/utilities",
+  "layout/tables",
+  "layout/buttons",
+  "layout/notices",
+  "layout/masthead",
+  "layout/navigation",
+  "layout/footer",
+  "syntax",
+
+  "layout/forms",
+
+  "layout/page",
+  "layout/archive",
+  "layout/sidebar",
+
+  "vendor/font-awesome/fontawesome",
+  "vendor/font-awesome/solid",
+  "vendor/font-awesome/brands",
+  "vendor/magnific-popup/magnific-popup"
+;
+
+/* =========================================================
+   Custom footer (full-width blue bar like Zhiyang Wang)
+   + remove "Sitemap / Follow / Feed"
+   ========================================================= */
+
+/* Hide the "Sitemap" title (AcademicPages prints it as archive subtitle) */
+.archive__subtitle {
   display: none !important;
 }
 
-/* Make footer background full-bleed (edge-to-edge) */
-.page__footer.custom-footer {
-  background: #0a8fc2 !important;
-  color: #fff !important;
-
-  /* full width trick that works with Minimal Mistakes containers */
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  border-top: 0;
+/* Hide default footer follow/feed area */
+.page__footer-follow,
+.page__footer-sitemap,
+.page__footer .social-icons {
+  display: none !important;
 }
 
-/* Make it SHORT and centered */
-.page__footer.custom-footer .custom-footer__inner {
-  max-width: 100%;
-  padding: 0.75rem 1rem !important;  /* short */
+/* Full-width blue bar */
+.custom-footer {
+  background: #0a8fc2;
+  color: #fff;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+/* Short height + centered text */
+.custom-footer__inner {
+  padding: 0.65rem 1rem;
   text-align: center;
   font-size: 0.95rem;
   font-weight: 500;
