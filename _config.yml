@@ -12,7 +12,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "null"
 title                    : "Anil Sigdel's Homepage"
 title_separator          : "-"
 name                     : &name "Anil Sigdel"
