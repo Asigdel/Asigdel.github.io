@@ -44,30 +44,37 @@
 
 /* ===== Custom footer (Zhiyang Wang style) ===== */
 
-/* Hide default AcademicPages footer content */
+/* ===== Footer: remove sitemap/follow + full-width blue bar ===== */
+
+/* Hide the sitemap/follow area that prints "Sitemap" */
 .page__footer-follow,
-.page__footer-copyright,
-.page__footer-sitemap {
+.page__footer .page__footer-follow,
+.page__footer .page__footer-sitemap,
+.page__footer h2 {
   display: none !important;
 }
 
-/* Full-width blue bar */
-.custom-footer {
+/* Make footer background full-bleed (edge-to-edge) */
+.page__footer.custom-footer {
+  background: #0a8fc2 !important;
+  color: #fff !important;
+
+  /* full width trick that works with Minimal Mistakes containers */
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  background: #0a8fc2;
-  color: #fff;
+  border-top: 0;
 }
 
-/* Compact height + centered text */
-.custom-footer__inner {
-  padding: 0.8rem 1rem;   /* 👈 SHORT height */
+/* Make it SHORT and centered */
+.page__footer.custom-footer .custom-footer__inner {
+  max-width: 100%;
+  padding: 0.75rem 1rem !important;  /* short */
   text-align: center;
-  font-size: 0.95rem;    /* 👈 smaller text */
-  font-weight: 500;      /* 👈 not bold */
+  font-size: 0.95rem;
+  font-weight: 500;
   line-height: 1.3;
 }
