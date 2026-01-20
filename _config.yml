@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Anil Sigdel"
-  avatar           : "/Images/Anil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Anil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Madison, WI, USA"
   email            : "sigdel@wisc.edu"
