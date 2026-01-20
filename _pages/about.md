@@ -1,4 +1,4 @@
-
+---
 layout: single
 classes: wide
 title: "About Me"
@@ -10,6 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in [Animal & Dairy Sciences Department ](https://andysci.wisc.edu/) at UW-Madison, advised by Prof. [Guilherme Rosa](https://rosalab.cals.wisc.edu/).
+I am a Research Associate in [Animal & Dairy Sciences Department](https://andysci.wisc.edu/) at UW-Madison, advised by Prof. [Guilherme Rosa](https://rosalab.cals.wisc.edu/).
 
-I earned my Ph.D. in the [Animal & Dairy Sciences Department](https://andysci.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) having the honor to be advised by Prof.[Francisco Peñagaricano](//https://fpenagaricano-lab.org/).
+I earned my Ph.D. in the [Animal & Dairy Sciences Department](https://andysci.wisc.edu/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) having the honor to be advised by Prof.[Francisco Peñagaricano](https://fpenagaricano-lab.org/).
