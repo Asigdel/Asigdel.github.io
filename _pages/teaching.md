@@ -8,23 +8,13 @@ author_profile: true
 
 ## Teaching
 
-### Teaching Assistant at the University of Pennsylvania
+### Teaching Assistant at the University of Wisconsin-Madison
 
-- ESE 514 Graph Neural Networks (Fall 2021)
-- ESE 224 Signal and Information Processing (Spring 2021) 
-- ESE 680 Graph Neural Networks (Fall 2020) 
+- ANSCI 610 Introduction to Quantitative Genetics (Fall 2025)
+- ANSCI 363 Principles of Animal Breeding (Spring 2021) 
+- ANSCI 361 Introduction to Animal and Veterinary Genetics (Spring 2021) 
 
-### Teaching Assistant at the University of Science and Technology of China
+### Teaching Assistant at Bruce Weir Summer Institute in Statistical Genetics, Georgia Tech
 
-- MIMO Wireless Communications (Fall 2017)  
-- C Programming (Spring 2015)        
-
-## Mentorship
-
-### Graduate Student
-
-- Romina Garcia (University of Pennsylvania)
-
-### Undergraduate Student
-
-- Martin Alijaj (University of Pennsylvania)
+- QG1 Quantitative Genetics (Summer 2024)  
+- QG2 Mixed Models in Quantitative Genetics (Summer 2024) 
