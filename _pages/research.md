@@ -8,6 +8,14 @@ author_profile: true
 
 ## Research Interest
 
-My research interests encompass graph signal processing, graph neural networks, geometric data analysis, wireless communications, and scalable autonomous systems. My research builds the mathematical foundations to understand the fundamental properties of graph neural networks via a manifold perspective. These theoretical understandings can advance scalable and stable solutions in many graph-structured applications such as communication networks, robotic systems, and data manifolds. 
-
-My ultimate goal is to use insights from signal processing to characterize mathematical foundations, develop novel architectures, and devise alternative training procedures for deep learning over real-world geometric data.
+My research interest is in animal breeding, quantitative genetics and
+computational biology. It is evident that the advancement in animal breeding and genetics has been
+fundamental to the large productivity gains that have been achieved by the livestock production
+sector around the world. More recently, genomics, A.I. for large-scale phenotyping technologies,
+advanced statistical methods were added to the animal breeding toolkit, enabling even faster
+improvements in production efficiency. My graduate and postdoctoral training is focused on
+genetic improvement of economically relevant traits in dairy and beef cattle, including production,
+health, fertility, heat-stress, genotype-by-environment interactions. I integrate on-farm
+performance records with genomics and enviromics data and ML/AI methods to develop selection
+tools, and data-driven strategies for optimizing breeding and farm management decisions. I have
+over 10 years of experience in teaching and research in animal breeding and genetics.
