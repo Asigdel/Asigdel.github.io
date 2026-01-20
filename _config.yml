@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhiyang Wang's Homepage"
+title                    : "Anil Sigdel's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Zhiyang Wang"
-description              : "This is Zhiyang Wang's personal website."
-url                      : "https://zhiyangwang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Anil Sigdel"
+description              : "This is Anil Sigdel's personal website."
+url                      : "https://asigdel.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "zhiyang43/zhiyang43.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Asigdel/asigdel.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -104,33 +104,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhiyang Wang"
-  avatar           : "/Images/4F6A2395.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Anil Sigdel"
+  avatar           : "/Images/Anil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "San Diego, CA, USA"
-  email            : "zhw135@ucsd.edu"
+  location         : "Madison, WI, USA"
+  email            : "sigdel@wisc.edu"
   links:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/cv/Zhiyang_Wang_CV.pdf"
+      url: "/cv/AnilSigdel_CV.pdf"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-book"
-      url: "https://scholar.google.com/citations?user=fKQTqCoAAAAJ"
+      url: "https://scholar.google.com/citations?user=95w5mFgAAAAJ&hl=en"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:zhiyangw@seas.upenn.edu
+      # url: mailto:sigdel@wisc.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://zhiyangwang.com"
+      url: "https://asigdel.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wangzhiyang"
+      url: "https://www.linkedin.com/in/anil-sigdel-ms-phd-3a8090162/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/zhiyang7777"
+      url: "https://github.com/Asigdel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -226,7 +226,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
