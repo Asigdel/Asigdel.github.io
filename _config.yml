@@ -125,7 +125,7 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anil-sigdel-ms-phd-3a8090162/"
-    - label: '<img src="https://orcid.org/sites/default/files/images/orcid_24x24.png" style="vertical-align:middle;"> ORCID'
+    - label: '<img src="/assets/orcid-id.png" style="width:32px; height:32px; vertical-align:middle;"> ORCID'
       icon: 
       url: "https://orcid.org/0000-0002-6188-8053"
     - label: "GitHub"
